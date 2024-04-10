@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(13, 248, 248);
+    color: rgb(3, 4, 52);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    color: rgb(132, 24, 156);
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h4 {
+    font-style: italic;
+    text-align: center;
+    background-color: aliceblue;
+}
+img {
+    border: 2px solid rgb(48, 48, 219);
+    padding: 3px black;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-style: italic;
+    font-size: large;
+}
+.rizz:hover{
+    font-style: normal;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
